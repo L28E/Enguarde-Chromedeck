@@ -1,3 +1,10 @@
+/*  
+    Standoff with Insert
+    A standoff with a hole for a threaded insert
+    Jan 7, 2023
+*/
+
+
 module standoff_w_insert(standoff_height,standoff_rad,insert_depth,insert_rad){
     difference(){
         cylinder(h=standoff_height,r=standoff_rad);

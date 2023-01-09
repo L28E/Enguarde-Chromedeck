@@ -1,3 +1,8 @@
+/*  
+    Bottom Right Half of the Case    
+    Jan 9, 2023
+*/
+
 include <puzzle_joint.scad>
 include <parameters.scad>
 include <standoff_w_insert.scad>

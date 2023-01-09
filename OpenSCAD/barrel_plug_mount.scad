@@ -1,3 +1,9 @@
+/*  
+    Barrel plug mount
+    A bracket to hold the chrombook's power connector
+    Jan 8, 2023
+*/
+
 include <parameters.scad>
 
 module barrel_plug_mount(){    
